@@ -1,0 +1,4 @@
+OUTPUT OF md5_hashing.ipynb
+
+Enter a string to hash: Kolkata
+The hashed string using md5 algorithm is : 44bef2ee415c62f0ce01fbe6c5566250

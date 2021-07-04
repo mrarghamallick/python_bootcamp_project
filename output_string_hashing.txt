@@ -1,0 +1,6 @@
+OUTPUT OF string_hashing.ipynb
+
+Enter a string to hash: Kolkata
+The hashed string using md5 algorithm is : 44bef2ee415c62f0ce01fbe6c5566250
+The hashed string (after 2 times) using md5 and sha1 algorithm is : aef3d13ee18048a9a2df3621cb29b2a2d72295aa
+The hashed string (after 3 times) using md5 and sha1 and blake2b algorithm is : 03e79b14ab06e58fb187c053ba6843bc916176c12178f05f67998e3f363fd5eba9be47c90720b5c8661c1544ec298a25e464b4b558d1e5733739a333a8e46064
